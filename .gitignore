@@ -1,6 +1,5 @@
-# Ignorer le dossier des dépendances
-vendor/
-
-# Ignorer les fichiers de configuration locaux
+# Fichier de configuration d'environnement
 .env
-config.php
+
+# Fichiers de configuration personnalisés
+config/
